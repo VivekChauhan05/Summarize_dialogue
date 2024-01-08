@@ -56,7 +56,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ---
 
-Feel free to contribute, report issues, or suggest improvement
+Feel free to contribute, report issues, or suggest improvement.
 
 Keep exploring and keep learning. Happy summarizing!
 
